@@ -6,8 +6,6 @@ import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
-import 'package:smart_auth/smart_auth.dart';
-import 'package:universal_platform/universal_platform.dart';
 
 part 'pinput_state.dart';
 
